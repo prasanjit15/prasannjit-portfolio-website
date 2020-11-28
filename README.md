@@ -16,11 +16,6 @@ Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/
 
 - Clone the repo:
 
-  ```bash
-  git clone https://github.com/caglarturali/caglarturali.git portfolio-app
-  cd portfolio-app
-  ```
-
 - Install the dependencies:
 
   ```bash
@@ -32,9 +27,3 @@ Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/
   ```bash
   npm start
   ```
-
-#### Credits
-
-- [typed.js](https://github.com/mattboldt/typed.js/) by [@mattboldt](https://github.com/mattboldt)
-
-- [multilanguage-hello-json](https://github.com/novellac/multilanguage-hello-json) by [@novellac](https://github.com/novellac)
