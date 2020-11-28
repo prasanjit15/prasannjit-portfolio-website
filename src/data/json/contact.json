@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Telegram",
+    "url": "https://t.me/prasanjit15",
+    "icon": ["fab", "telegram-plane"],
+    "isMain": true
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com/prasanjit15",
+    "icon": ["fab", "github"],
+    "isMain": false
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/in/prasannjit-mohapatra/",
+    "icon": ["fab", "linkedin"],
+    "isMain": false
+  }
+]
