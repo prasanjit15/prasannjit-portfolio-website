@@ -11,6 +11,12 @@
 # production
 /build
 
+# vscode
+.vscode
+
+#bots
+.dependabot
+
 # misc
 .DS_Store
 .env
