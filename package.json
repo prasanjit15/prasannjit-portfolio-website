@@ -5,9 +5,9 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/caglarturali/caglarturali.github.io"
+    "url": "https://github.com/prasanjit15/prasannjit-portfolio-website"
   },
-  "homepage": "https://turali.js.org",
+  "homepage": "https://prasannjit.me/",
   "license": "GNU GPLv3",
   "scripts": {
     "start": "react-scripts start",
