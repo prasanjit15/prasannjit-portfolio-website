@@ -6,9 +6,9 @@ describe('<ButtonLink />', () => {
   test('should render correctly', () => {
     const { asFragment } = render(
       <ButtonLink
-        text="prasannjitmohapatra.me"
-        title="prasannjitmohapatra.me"
-        href="https://prasannjitmohapatra.me"
+        text="prasannjit.me"
+        title="prasannjit.me"
+        href="https://prasannjit.me/"
         icon={{
           prefix: 'fas',
           iconName: 'coffee',
