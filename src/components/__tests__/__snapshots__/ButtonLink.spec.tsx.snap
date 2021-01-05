@@ -3,12 +3,12 @@
 exports[`<ButtonLink /> should render correctly 1`] = `
 <DocumentFragment>
   <a
-    aria-label="turali.js.org"
+    aria-label="prasannjit.me"
     class="root-0-2-1"
-    href="https://turali.js.org"
+    href="https://prasannjit.me/"
     rel="noopener noreferrer"
     target="_blank"
-    title="turali.js.org"
+    title="prasannjit.me/"
   >
     <span
       class="contents-0-2-2"
@@ -31,7 +31,7 @@ exports[`<ButtonLink /> should render correctly 1`] = `
       <span
         class="text-0-2-3"
       >
-        turali.js.org
+        prasannjit.me
       </span>
     </span>
   </a>

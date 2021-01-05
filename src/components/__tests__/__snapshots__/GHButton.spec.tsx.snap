@@ -3,12 +3,12 @@
 exports[`<GHButton /> should render correctly 1`] = `
 <DocumentFragment>
   <a
-    aria-label="Follow @caglarturali on GitHub"
+    aria-label="Follow @prasanjit15 on GitHub"
     class="root-0-2-1"
-    href="https://github.com/caglarturali"
+    href="https://github.com/prasanjit15"
     rel="noopener noreferrer"
     target="_blank"
-    title="Follow @caglarturali on GitHub"
+    title="Follow @prasanjit15 on GitHub"
   >
     <span
       class="contents-0-2-2"
@@ -31,7 +31,7 @@ exports[`<GHButton /> should render correctly 1`] = `
       <span
         class="text-0-2-3"
       >
-        Follow @caglarturali on GitHub
+        Follow @prasanjit15 on GitHub
       </span>
       <span
         class="count-0-2-4"

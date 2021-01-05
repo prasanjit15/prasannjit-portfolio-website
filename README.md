@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.com/caglarturali/caglarturali.github.io.svg?branch=master)](https://travis-ci.com/caglarturali/caglarturali.github.io)
-
 ## What's this?
 
 [VS Code](https://code.visualstudio.com/) / [Atom One Dark](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark) inspired developer portfolio app. :blush:
